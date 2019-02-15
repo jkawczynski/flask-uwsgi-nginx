@@ -1,6 +1,6 @@
 FROM python:3.6-alpine
 
-LABEL maintainer="Janusz Kawczynski <jk70250@@gmail.com>"
+LABEL maintainer="Janusz Kawczynski <jk70250@gmail.com>"
 
 RUN apk add --no-cache \
         nginx \
